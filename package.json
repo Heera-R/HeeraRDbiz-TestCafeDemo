@@ -1,0 +1,15 @@
+{
+  "name": "mytestcafedemo",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "heera",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "devDependencies": {
+    "testcafe": "^3.7.4"
+  }
+}
